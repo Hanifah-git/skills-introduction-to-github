@@ -7,7 +7,7 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# Introduction to GitHub
+Hello I am not a monster
 
 _Get started using GitHub in less than an hour._
 
@@ -36,7 +36,7 @@ In this course, you will:
 3. Open a pull request
 4. Merge your pull request
 
-### How to start this course
+
 
 Hello I am Hanifah
 
